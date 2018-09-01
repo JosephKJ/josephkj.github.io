@@ -5,7 +5,7 @@ title: <strong>Joseph</strong> K J
 description: PhD Student, <a href="https://cse.iith.ac.in/">Computer Science Department</a>, <a href="https://www.iith.ac.in/">Indian Institute of Technology Hyderabad</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
 
 news: true
