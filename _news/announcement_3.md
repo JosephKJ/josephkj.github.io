@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2018-08-06 12:00:00+0530
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[MASON](https://github.com/JosephKJ/MASON) accepted at [AutoNUE](http://cvit.iiit.ac.in/autonue2018/accepted_paper.php) workshop, **ECCV 2018**, Germany.
