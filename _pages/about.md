@@ -14,8 +14,10 @@ social: true
 
 I am a PhD student at IIT Hyderabad.
 I am fortunate to have <a href="https://www.iith.ac.in/~vineethnb/index.html" target="_blank">Dr. Vineeth Balasubramanian</a>, as my advisor.
-I am broadly interested in generative modelling and learning under weak supervision in Deep learning.
-I am also interested in vision problems like detection and segmentation.
+I work on building machine learning models that can learn incrementally, just like humans do.
+I am also interested in generative modelling, learning under weak supervision and vision problems like detection and segmentation.
 
 Before joining IIT Hyderabad, I was working at <a href="https://www.oracle.com/index.html" target="_blank">Oracle</a>, as a Senior Software Engineer for 3.5 years.
 I used to develop softwares for PeopleSoft PeopleTools Platforms team.
+
+e-mail: cs17m18p100001_at_iith.ac.in
