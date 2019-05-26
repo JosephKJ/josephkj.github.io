@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Submodular Batch Selection for Training Deep Neural Networks
-description: International Joint Conference on Artificial Intelligence, (IJCAI), Macao, China. 2019
+description: International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. 2019
 comments: true
 # img: /assets/img/12.jpg
 ---
