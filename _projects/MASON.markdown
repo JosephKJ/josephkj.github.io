@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MASON
-description: (ECCV-W, 2018) A Model AgnoStic ObjectNess Framework
+title: 'MASON: A Model AgnoStic ObjectNess Framework'
+description: European Conference on Computer Vision, Workshop Proceedings (ECCV-W), Munich, Germany. 2018
 comments: true
 # img: /assets/img/12.jpg
 ---

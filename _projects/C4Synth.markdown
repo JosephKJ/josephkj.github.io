@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C4Synth
-description: (WACV 2019) Cross-Caption Cycle-Consistent Text-to-Image Synthesis
+title: 'C4Synth: Cross-Caption Cycle-Consistent Text-to-Image Synthesis'
+description: Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA. 2019
 comments: true
 # img: /assets/img/12.jpg
 ---
