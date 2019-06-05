@@ -20,4 +20,4 @@ I am also interested in generative modelling, learning under weak supervision an
 Before joining IIT Hyderabad, I was working at <a href="https://www.oracle.com/index.html" target="_blank">Oracle</a>, as a Senior Software Engineer for 3.5 years.
 I used to develop softwares for PeopleSoft PeopleTools Platforms team.
 
-e-mail: cs17m18p100001_at_iith.ac.in
+e-mail: cs17m18p100001 (at) iith.ac.in
