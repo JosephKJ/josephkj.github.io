@@ -12,4 +12,9 @@ We introduce a mini-batch selection strategy based on submodular function maximi
 
 #### Code
 
-Will be made available soon.
+[GitHub Link](https://github.com/VamshiTeja/SMDL)
+
+
+#### arXiv link
+
+Coming soon
