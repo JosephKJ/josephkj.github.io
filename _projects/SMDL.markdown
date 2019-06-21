@@ -17,4 +17,4 @@ We introduce a mini-batch selection strategy based on submodular function maximi
 
 #### arXiv link
 
-Coming soon
+[https://arxiv.org/abs/1906.08771](https://arxiv.org/abs/1906.08771)
