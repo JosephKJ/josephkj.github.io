@@ -18,6 +18,6 @@ Our experiments with continual learning benchmarks of MNIST, CIFAR-10, CIFAR-100
 [GitHub Link](https://github.com/JosephKJ/merlin)
 
 
-#### arXiv link
+#### Paper link
 
-Coming soon!
+[arXiv Link](https://arxiv.org/abs/2010.00352)
