@@ -31,8 +31,10 @@ $ bundle exec jekyll serve
 ```
 
 Commands:
+
 rvm use 2.7.2
 bundle exec jekyll serve
+./bin/deploy --user
 
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
