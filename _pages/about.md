@@ -6,7 +6,7 @@ description: PhD Student, <a href="https://cse.iith.ac.in/">Computer Science Dep
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: profile_picture.jpg
 
 news: true
 social: true
