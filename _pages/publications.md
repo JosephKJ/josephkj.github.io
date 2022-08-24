@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications in reverse chronological order.
+description: 3 x CVPR, 2 x ECCV, 1 x {TPAMI, NeurIPS, IJCAI, WACV, BMVC, IROS}
 years: [2022, 2021, 2020, 2019, 2018]
 ---
 
