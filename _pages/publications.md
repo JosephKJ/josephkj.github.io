@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 3 x CVPR, 2 x ICCV, 2 x ECCV, 2 x WACV, 1 x {TPAMI, NeurIPS, IJCAI, BMVC, IROS}
+description: 3 x CVPR, 2 x ICCV, 2 x ECCV, 2 x WACV, 1 x {TPAMI, NeurIPS, AAAI, IJCAI, BMVC, IROS}
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2018]
 ---
 
