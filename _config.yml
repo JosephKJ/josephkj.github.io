@@ -62,7 +62,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
+  talks:
+    defaults:
+      layout: post
+    output: true
+    permalink: /talks/:path/
 news_limit: 50
 
 # -----------------------------------------------------------------------------
