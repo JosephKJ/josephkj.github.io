@@ -9,12 +9,12 @@ body {
 }
 
 a:link {
-  color: #828282;
+  color: #bc1422;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #7097ed;
+  color: #bc1422;
   background-color: transparent;
   text-decoration: none;
 }
@@ -129,9 +129,9 @@ hr {
 .desc {
     grid-column: span 10;
     vertical-align: top;
-    font-size: 17px;
+    font-size: 15px;
     /*padding-left: 20px;*/
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 .entry {
 }
@@ -247,10 +247,11 @@ hr {
 .pub-venue {
     display: inline;
     color: #090;
+    font-weight: bold;
 }
 .pub-authors {
     display: block;
-    color: #900;
+    color: #4c4949;
 }
 .tul {
     text-align: center;
@@ -267,4 +268,12 @@ hr {
 .nodot {
     list-style-type: none;
     padding-left: 0;
+}
+
+#tagline{
+    font-size: 14px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    color: #999999;
+    text-align: center;
 }
