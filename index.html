@@ -459,7 +459,11 @@
           Our <a href="https://sites.google.com/site/icml18limitedlabels/accepted-papers">paper</a> accepted at ‘Towards learning with limited labels’ workshop, <strong>ICML 2018</strong>, Sweden.
         </div>
       </div>
-
+    </div>
+    <div style="text-align: center; margin-top: 1px;">
+        <button id="showMoreBtn" style="padding: 8px 16px; font-size: 14px; border-radius: 6px; border: none; background-color: rgb(227,228,228); color: #bc1422; cursor: pointer;">
+          Click to see more...
+        </button>
     </div>
 
     <hr/>
@@ -843,5 +847,34 @@
         e_is_shown = !e_is_shown;
       })
     </script>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const entries = document.querySelectorAll("#history .entry");
+    const showMoreBtn = document.getElementById("showMoreBtn");
+    const initialCount = 10;
+
+    // Save original display type for each entry
+    entries.forEach(entry => {
+      entry.dataset.display = window.getComputedStyle(entry).display;
+    });
+
+    // Hide all after the first 10
+    entries.forEach((entry, index) => {
+      if (index >= initialCount) {
+        entry.style.display = "none";
+      }
+    });
+
+    // Reveal on click
+    showMoreBtn.addEventListener("click", function () {
+      entries.forEach(entry => {
+        entry.style.display = entry.dataset.display; // restore original layout
+      });
+      showMoreBtn.style.display = "none";
+    });
+  });
+</script>
   
-</body></html>
+</body>
+</html>
